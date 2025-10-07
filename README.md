@@ -1,1 +1,1 @@
-# RepLect
+*.docx
